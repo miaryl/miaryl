@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Mio</h1>
+<h1 align="center">Hi 👋 I'm Mio!</h1>
 <h3 align="center">A passionate frontend developer from Japan in Barcelona!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miaryl&label=Profile%20views&color=0e75b6&style=flat" alt="miaryl" /> </p>
 
-- ⚡ Fun fact **I love being a tourist, even in my town! I'm shy! I'm metalhead!ah, 1800+days streak in Duolingo!**
+
+- ⚡ Fun fact **I love being a tourist, even in my town! I'm shy! I'm metalhead! Ah, 1800+days streak in Duolingo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,3 +40,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miaryl&show_icons=true&locale=en&layout=compact" alt="miaryl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miaryl&" alt="miaryl" /></p>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=miaryl&label=Profile%20views&color=0e75b6&style=flat" alt="miaryl" /> </p>
