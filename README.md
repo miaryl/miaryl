@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋 I'm Mio!</h1>
 <h3 align="center">A passionate frontend developer from Japan in Barcelona!</h3>
+<h3 align="center">Currently, learning to be fullstack developer!!</h3>
 
 
-
-- ⚡ Fun fact **I love being a tourist, even in my town! I'm shy! I'm metalhead! Ah, 1800+days streak in Duolingo!**
+- 🔥 Power | **Always worked with teams, problem solving skill? yes! also always tryed and successed to be better team and organization!**
+- 💙 **!!! ENTER SHIKARI LOVER !!!!!!**
+- 🎵 hobby | **go to concert, travel, food, cooking, borad game,learning new things, museum** 
+- ⚡ Fun fact | **I love being a tourist, even in my town! I'm shy! I'm metalhead! Ah, 1800+days streak in Duolingo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
