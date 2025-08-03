@@ -5,8 +5,9 @@
 
 - 🔥 Power | **Always worked with teams, problem solving skill? yes! also always tryed and successed to be better team and organization!**
 - 💙 **!!! ENTER SHIKARI LOVER !!!!!!**
-- 🎵 hobby | **go to concert, travel, food, cooking, borad game,learning new things, museum** 
+- 🎵 hobby | **go to concert, travel, food, cooking, borad game,learning new things, museum, reading books/ manga, watching movie/ anime** 
 - ⚡ Fun fact | **I love being a tourist, even in my town! I'm shy! I'm metalhead! Ah, 1800+days streak in Duolingo!**
+- 🖋️ language | **Japanese(Native)/ English(C1)/ Spanish(B2)/ Catalan(A2)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
