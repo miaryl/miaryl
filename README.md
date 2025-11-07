@@ -9,6 +9,11 @@
 - ⚡ Fun fact | **I love being a tourist, even in my town! I'm shy! I'm metalhead! Ah, 1800+days streak in Duolingo!**
 - 🖋️ language | **Japanese(Native)/ English(C1)/ Spanish(B2)/ Catalan(A2)**
 
+## hackathon
+- :pill:[PillPall](https://github.com/PillPal-FullStack) - Winner of the 8th eddition F5 Hackathon as **Frontend Developer**
+- :city_sunrise: [Ciudad Viva BCN](https://github.com/HackatonServeiOcupacio2025) - Participated as **Frontend Developer**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
