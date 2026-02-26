@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Mio!</h1>
+<h1 align="center">Hi👋 I'm Mio!</h1>
 
-A passionate frontend developer from Japan in Barcelona!<br>Currently, learning to be fullstack developer!!<br>🔥 Power | Always worked with teams, problem solving skill? yes! also always tried and successed to be better team and organization!<br>💙 !!! ENTER SHIKARI LOVER !!!!!!<br>🎵 hobby | go to concert, travel, food, cooking, borad game,learning new things, museum, reading books/ manga, watching movie/ anime<br>⚡ Fun fact | I love being a tourist, even in my town! I'm shy! I'm metalhead! Ah, 1900+days streak in Duolingo!<br>🖋️ language | Japanese(Native)/ English(C1)/ Spanish(B2)/ Catalan(A2)
+A passionate full stack developer from Japan in Barcelona!<br>🔥 Power | Always worked with teams, problem solving skill? yes! also always tried and successed to be better team and organization!<br>💙 !!! ENTER SHIKARI LOVER !!!!!!<br>🎵 hobby | go to concert, travel, food, cooking, borad game,learning new things, museum, reading books/ manga, watching movie/ anime<br>⚡ Fun fact | I love being a tourist, even in my town! I'm shy! I'm metalhead! Ah, 1900+days streak in Duolingo!<br>🖋️ language | Japanese(Native)/ English(C1)/ Spanish(B2)/ Catalan(A2)
 
 
 ## :octocat: Hackathon
