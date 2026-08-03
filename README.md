@@ -23,18 +23,6 @@ A passionate full stack developer from Japan in Barcelona!<br>🔥 Power | Alway
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miaryl&show_icons=true&locale=en&layout=compact" alt="miaryl" /></p>
-
-
-![](https://github-readme-stats.vercel.app/api?username=miaryl&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=miaryl&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miaryl&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=miaryl&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=miaryl&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
